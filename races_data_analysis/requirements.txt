@@ -1,0 +1,6 @@
+python - latest version
+seaborn - latest version
+pandas - latest version
+
+ide- jupyter notebook or spyder
+
